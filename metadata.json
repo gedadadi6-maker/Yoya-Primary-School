@@ -1,0 +1,8 @@
+{
+  "name": "Yooyyaa Primary School Management System",
+  "description": "Sirna Bulchiinsa Qabxii & Stock Mana Barumsaa Sadarkaa 1ffaa Yooyyaa (Yooyyaa Primary School Grade Reporting and Inventory System) afaan lachuu (Afaan Oromoo & English) qabu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
